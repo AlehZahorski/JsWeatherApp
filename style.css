@@ -36,7 +36,6 @@ header input{
     font-size: 20px;
     font-weight: 300;
     transition: 0.2 ease-out;
-    margin-top: 10%;
 }
 header input:focus{
     background-color: rgba(255, 255, 255, 0.6);
